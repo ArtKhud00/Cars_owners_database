@@ -1,0 +1,7 @@
+3 2 Mazda_6 2009 X555CM174 3 белый 150
+6 4 Skoda_Kodiaq 2017 C458MK98 4 коричневый 180
+7 1 Hyundai_Solaris 2014 P070BK98 4 синий 99
+8 11 Ford_Focus 2006 B680XC74 5 серо-голубой 125
+9 5 Volkswagen_Jetta 2015 H675BT178 5 красный 106
+10 10 Renault_Megane 2008 H273ET99 5 синий 100
+11 6 Toyota_Corolla 2011 M457OP197 5 серый 123
